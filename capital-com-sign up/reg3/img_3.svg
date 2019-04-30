@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="20px" height="66px" viewBox="0 0 20 66" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 54.1 (76490) - https://sketchapp.com -->
+    <title>Mask</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Symbols" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="reg2-copy" transform="translate(-128.000000, -56.000000)" fill="#D8D8D8">
+            <path d="M144.802634,60.8322625 L128.053437,56 L128.053437,120.439942 C128.053437,120.761966 128.034585,121.079126 128,121.392097 C130.053386,121.593987 132.023903,120.320213 132.618354,118.273741 L147.783027,66.221548 C148.453972,63.9135917 147.119678,61.5000955 144.802634,60.8322625 Z" id="Mask"></path>
+        </g>
+    </g>
+</svg>
