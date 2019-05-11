@@ -1,7 +1,6 @@
 var i;
-coins_count = 4
+coins_count = 5
 coin_speed = 0.6;
-
 
 for (i = 0; i < coins_count; i++) {
   var div = document.createElement("div");
@@ -17,7 +16,6 @@ for (i = 0; i < coins_count; i++) {
   document.getElementById("main").appendChild(div);
   div.style.opacity = "0";
 }
-
 
 function create_coin(div_cont, my_delay = 1000){
   var animation_registration = lottie.loadAnimation({
@@ -58,3 +56,27 @@ create_and_drop(icon0, 500, 500)
 create_and_drop(icon1, 700, 1000)
 create_and_drop(icon2, 900, 1500)
 create_and_drop(icon3, 1100, 2000)
+
+function create_crown(){
+  var animation_registration = lottie.loadAnimation({
+    container: icon4,
+    renderer: "svg",
+    loop: true,
+    autoplay: true,
+    path: "crown.json",
+    rendererSettings: {
+      scaleMode: 'noScale',
+      clearCanvas: true,
+      progressiveLoad: true,
+      hideOnTransparent: true, }
+  })
+  animation_registration.setSpeed(coin_speed);
+  function my_play() {
+    animation_registration.play();
+  }
+  setTimeout(my_play,my_delay);
+}
+drop_coin(icon4,1500);
+create_crown(icon4);
+
+
