@@ -11,7 +11,7 @@ for (i = 0; i < coins_count; i++) {
   div.style.float = "left";
   div.style.margin = "0px";
   div.style.padding = "16px";
-  div.innerHTML = "coin  "+i;
+  //div.innerHTML = "coin  "+i;
   div.id = "icon" + i;
   document.getElementById("main").appendChild(div);
   div.style.opacity = "0";
