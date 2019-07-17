@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="100%" height="100%" viewBox="0 0 40 119" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" xmlns:serif="http://www.serif.com/" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linejoin:round;stroke-miterlimit:1.41421;">
+    <g id="Group">
+        <path id="Rectangle" d="M15,0L25,0L27,8L15,8L15,0Z" style="fill:rgb(51,51,51);fill-rule:nonzero;"/>
+        <path id="Combined-Shape" d="M6,8L8,0L16,0L18,8L24,8L24,119L0,119L0,8L6,8Z" style="fill:rgb(102,102,102);fill-rule:nonzero;"/>
+        <rect id="Rectangle-Copy" x="24" y="8" width="16" height="111" style="fill:rgb(51,51,51);"/>
+        <path id="Combined-Shape1" serif:id="Combined-Shape" d="M6,12L10,12L10,36L6,36L6,12ZM14,12L18,12L18,36L14,36L14,12ZM6,40L10,40L10,119L6,119L6,40ZM14,40L18,40L18,119L14,119L14,40Z" style="fill:rgb(68,68,68);fill-rule:nonzero;"/>
+        <path id="Combined-Shape2" serif:id="Combined-Shape" d="M6,12L10,12L10,16L6,12ZM14,12L18,12L18,16L14,12Z" style="fill:rgb(51,51,51);fill-rule:nonzero;"/>
+        <g id="Combined-Shape-Copy-2" transform="matrix(1,0,0,1,0,-1)">
+            <path d="M6,41L10,41L10,45L6,41ZM14,41L18,41L18,45L14,41Z" style="fill:rgb(51,51,51);fill-rule:nonzero;"/>
+        </g>
+        <rect id="Rectangle1" serif:id="Rectangle" x="30" y="12" width="4" height="107" style="fill:rgb(34,34,34);"/>
+    </g>
+</svg>
